@@ -1,6 +1,6 @@
 # gatling_magento2
 Gatling stress / performance tests for Magento 2.
-
+# [Freelance Magento Developer](https://www.phpfreelanceprogrammer.com/magento-programmer.html)
 ### Status
 This is very much a work in progress. Currently only checkout as guest is implemented.
 
